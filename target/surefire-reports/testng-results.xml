@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13168" started-at="2021-12-18T19:51:13 IST" finished-at="2021-12-18T19:51:26 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13168" started-at="2021-12-18T19:51:13 IST" finished-at="2021-12-18T19:51:26 IST">
+      <class name="tests.HomePageTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.HomePageTests@5d76b067]" name="setup" is-config="true" duration-ms="12280" started-at="2021-12-18T19:51:13 IST" finished-at="2021-12-18T19:51:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyFirstBookTitle()[pri:0, instance:tests.HomePageTests@5d76b067]" name="verifyFirstBookTitle" duration-ms="55" started-at="2021-12-18T19:51:25 IST" finished-at="2021-12-18T19:51:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFirstBookTitle -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:tests.HomePageTests@5d76b067]" name="verifyHomePageTitle" duration-ms="8" started-at="2021-12-18T19:51:25 IST" finished-at="2021-12-18T19:51:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="verifyNewArrivalsDisplayed()[pri:0, instance:tests.HomePageTests@5d76b067]" name="verifyNewArrivalsDisplayed" duration-ms="86" started-at="2021-12-18T19:51:25 IST" finished-at="2021-12-18T19:51:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewArrivalsDisplayed -->
+        <test-method status="PASS" signature="verifyNewArrivalsEnabled()[pri:0, instance:tests.HomePageTests@5d76b067]" name="verifyNewArrivalsEnabled" duration-ms="32" started-at="2021-12-18T19:51:25 IST" finished-at="2021-12-18T19:51:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewArrivalsEnabled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.HomePageTests@5d76b067]" name="tearDown" is-config="true" duration-ms="663" started-at="2021-12-18T19:51:25 IST" finished-at="2021-12-18T19:51:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.HomePageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
